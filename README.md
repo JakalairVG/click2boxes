@@ -1,4 +1,4 @@
-# click2boxes 1.0
+# click2boxes 1.1
 
 This was started as a way to right click on two boxes over and over on a private server in World of Warcraft.
 It then ballooned into the version that it here. This one automatically turns on my recording software for the
@@ -17,5 +17,9 @@ Things to improve:
   -track correct window usage
 
   Change Log:
+    1.1 Reworked
+      -more output to user during setup
+      -more elegant way to identify boxes
+      -recording is optional
     1.0 First Upload
       none
